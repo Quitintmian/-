@@ -1,0 +1,11 @@
+1、理解macro-P和micro-P、macro-R和micro-R、macro-TPR和micro-TPR、macro-FPR和micro-FPR计算方式的不同
+
+https://www.datascienceblog.net/post/machine-learning/performance-measures-multi-class-problems/
+
+2、关于绘制多分类的ROC、PR曲线，建议现看下
+
+https://zhuanlan.zhihu.com/p/266386193
+
+https://blog.zhujian.life/posts/2bbcad17.html
+
+https://inblog.in/AUC-ROC-score-and-curve-in-multiclass-classification-problems-2ja4jOHb2X
